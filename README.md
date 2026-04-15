@@ -1,2 +1,2 @@
-# PIM_IV-IM-JL-DN_DAM1
+# PIM_IV-JL-DN_DAM1
 Projecte intermodular Julian, Ivan El Movil y Daniel
